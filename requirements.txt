@@ -1,0 +1,11 @@
+pandas>=2.0.0
+pyarrow>=14.0.0
+streamlit
+sentence-transformers
+faiss-cpu
+torch
+einops
+scikit-learn
+tqdm
+numpy
+
